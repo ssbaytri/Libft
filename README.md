@@ -18,57 +18,57 @@ Libft is the first project at 42 School where students recreate various standard
 ### Basic Functions (Libc)
 | Function | Description |
 |----------|-------------|
-| ft_isalpha | Check if character is alphabetic |
-| ft_isdigit | Check if character is digit |
-| ft_isalnum | Check if character is alphanumeric |
-| ft_isascii | Check if character is ASCII |
-| ft_isprint | Check if character is printable |
-| ft_strlen | Calculate string length |
-| ft_memset | Fill memory with a constant byte |
-| ft_bzero | Zero a byte string |
-| ft_memcpy | Copy memory area |
-| ft_memmove | Copy memory area with overlap handling |
-| ft_strlcpy | Size-bounded string copying |
-| ft_strlcat | Size-bounded string concatenation |
-| ft_toupper | Convert char to uppercase |
-| ft_tolower | Convert char to lowercase |
-| ft_strchr | Locate character in string |
-| ft_strrchr | Locate character in string from the end |
-| ft_strncmp | Compare two strings |
-| ft_memchr | Scan memory for a character |
-| ft_memcmp | Compare memory areas |
-| ft_strnstr | Locate a substring in a string |
-| ft_atoi | Convert string to integer |
-| ft_calloc | Allocate and zero-initialize memory |
-| ft_strdup | Create a duplicate of a string |
+| [`ft_isalpha`](libft/ft_isalpha.c) | Check if character is alphabetic |
+| [`ft_isdigit`](libft/ft_isdigit.c) | Check if character is digit |
+| [`ft_isalnum`](libft/ft_isalnum.c) | Check if character is alphanumeric |
+| [`ft_isascii`](libft/ft_isascii.c) | Check if character is ASCII |
+| [`ft_isprint`](libft/ft_isprint.c) | Check if character is printable |
+| [`ft_strlen`](libft/ft_strlen.c) | Calculate string length |
+| [`ft_memset`](libft/ft_memset.c) | Fill memory with a constant byte |
+| [`ft_bzero`](libft/ft_bzero.c) | Zero a byte string |
+| [`ft_memcpy`](libft/ft_memcpy.c) | Copy memory area |
+| [`ft_memmove`](libft/ft_memmove.c) | Copy memory area with overlap handling |
+| [`ft_strlcpy`](libft/ft_strlcpy.c) | Size-bounded string copying |
+| [`ft_strlcat`](libft/ft_strlcat.c) | Size-bounded string concatenation |
+| [`ft_toupper`](libft/ft_toupper.c) | Convert char to uppercase |
+| [`ft_tolower`](libft/ft_tolower.c) | Convert char to lowercase |
+| [`ft_strchr`](libft/ft_strchr.c) | Locate character in string |
+| [`ft_strrchr`](libft/ft_strrchr.c) | Locate character in string from the end |
+| [`ft_strncmp`](libft/ft_strncmp.c) | Compare two strings |
+| [`ft_memchr`](libft/ft_memchr.c) | Scan memory for a character |
+| [`ft_memcmp`](libft/ft_memcmp.c) | Compare memory areas |
+| [`ft_strnstr`](libft/ft_strnstr.c) | Locate a substring in a string |
+| [`ft_atoi`](libft/ft_atoi.c) | Convert string to integer |
+| [`ft_calloc`](libft/ft_calloc.c) | Allocate and zero-initialize memory |
+| [`ft_strdup`](libft/ft_strdup.c) | Create a duplicate of a string |
 
 ### Additional Functions
 | Function | Description |
 |----------|-------------|
-| ft_substr | Create substring from string |
-| ft_strjoin | Concatenate two strings |
-| ft_strtrim | Trim characters from string |
-| ft_split | Split string into array of substrings |
-| ft_itoa | Convert integer to string |
-| ft_strmapi | Apply function to each char of string |
-| ft_striteri | Apply function to each char of string with index |
-| ft_putchar_fd | Output char to file descriptor |
-| ft_putstr_fd | Output string to file descriptor |
-| ft_putendl_fd | Output string with newline to file descriptor |
-| ft_putnbr_fd | Output number to file descriptor |
+| [`ft_substr`](libft/ft_substr.c) | Create substring from string |
+| [`ft_strjoin`](libft/ft_strjoin.c) | Concatenate two strings |
+| [`ft_strtrim`](libft/ft_strtrim.c) | Trim characters from string |
+| [`ft_split`](libft/ft_split.c) | Split string into array of substrings |
+| [`ft_itoa`](libft/ft_itoa.c) | Convert integer to string |
+| [`ft_strmapi`](libft/ft_strmapi.c) | Apply function to each char of string |
+| [`ft_striteri`](libft/ft_striteri.c) | Apply function to each char of string with index |
+| [`ft_putchar_fd`](libft/ft_putchar_fd.c) | Output char to file descriptor |
+| [`ft_putstr_fd`](libft/ft_putstr_fd.c) | Output string to file descriptor |
+| [`ft_putendl_fd`](libft/ft_putendl_fd.c) | Output string with newline to file descriptor |
+| [`ft_putnbr_fd`](libft/ft_putnbr_fd.c) | Output number to file descriptor |
 
 ### Bonus Functions (Linked Lists)
 | Function | Description |
 |----------|-------------|
-| ft_lstnew | Create new list node |
-| ft_lstadd_front | Add node at beginning of list |
-| ft_lstsize | Count nodes in list |
-| ft_lstlast | Get last node of list |
-| ft_lstadd_back | Add node at end of list |
-| ft_lstdelone | Delete node with specific deleter |
-| ft_lstclear | Delete list with specific deleter |
-| ft_lstiter | Apply function to all list nodes |
-| ft_lstmap | Create new list by applying function |
+| [`ft_lstnew`](libft/ft_lstnew_bonus.c) | Create new list node |
+| [`ft_lstadd_front`](libft/ft_lstadd_front_bonus.c) | Add node at beginning of list |
+| [`ft_lstsize`](libft/ft_lstsize_bonus.c) | Count nodes in list |
+| [`ft_lstlast`](libft/ft_lstlast_bonus.c) | Get last node of list |
+| [`ft_lstadd_back`](libft/ft_lstadd_back_bonus.c) | Add node at end of list |
+| [`ft_lstdelone`](libft/ft_lstdelone_bonus.c) | Delete node with specific deleter |
+| [`ft_lstclear`](libft/ft_lstclear_bonus.c) | Delete list with specific deleter |
+| [`ft_lstiter`](libft/ft_lstiter_bonus.c) | Apply function to all list nodes |
+| [`ft_lstmap`](libft/ft_lstmap_bonus.c) | Create new list by applying function |
 
 ## Getting Started
 
