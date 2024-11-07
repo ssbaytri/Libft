@@ -91,8 +91,8 @@ Libft is the first project at 42 School where students recreate various standard
 ### Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/Libft.git
-cd Libft
+git clone https://github.com/ssbaytri/Libft.git
+cd Libft/libft
 ```
 
 2. Compile the library:
