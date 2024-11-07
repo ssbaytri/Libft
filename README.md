@@ -13,7 +13,6 @@
 
 A custom C library implementation of various standard library functions, created as part of the 42 School curriculum. This library provides essential functions for string manipulation, memory management, and linked list operations.
 
-[Rest of the README remains the same...]
 
 ## 📚 Table of Contents
 - [About](#about)
