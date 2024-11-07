@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/libft_header.jpg" alt="Libft Header - Library Background" width="100%">
+  <img src="/libft_header.jpg" alt="Libft Header - Library Background" width="100%">
 </div>
 
 # Libft
