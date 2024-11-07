@@ -1,6 +1,19 @@
+<div align="center">
+  <img src="assets/libft_header.jpg" alt="Libft Header - Library Background" width="100%">
+</div>
+
 # Libft
 
+<div align="center">
+  
+![42 Logo](https://img.shields.io/badge/42-Libft-blueviolet)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+
+</div>
+
 A custom C library implementation of various standard library functions, created as part of the 42 School curriculum. This library provides essential functions for string manipulation, memory management, and linked list operations.
+
+[Rest of the README remains the same...]
 
 ## 📚 Table of Contents
 - [About](#about)
