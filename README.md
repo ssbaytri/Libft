@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://drive.google.com/uc?id=1szc7_mDSbRm0VcpmTD6_EgctQ0GjORhX
-" alt="Libft Header - Library Background" width="100%">
+  <img src="https://drive.google.com/uc?id=1szc7_mDSbRm0VcpmTD6_EgctQ0GjORhX" alt="Libft Header - Library Background" width="100%">
 </div>
 
 # Libft
