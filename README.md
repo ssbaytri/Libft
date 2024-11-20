@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/libft_header.jpg" alt="Libft Header - Library Background" width="100%">
+  <img src="https://files.oaiusercontent.com/file-L1xYfKtPH5vqt1itqapcxVSh?se=2024-11-20T17%3A28%3A32Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3Ddb03274f-7884-40eb-9326-6bc565f40566.webp&sig=i8mFkCkPC7gW7g8LH6UbHf3kuIhcL8yoJLA6e1Rf7YM%3D" alt="Libft Header - Library Background" width="100%">
 </div>
 
 # Libft
